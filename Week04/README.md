@@ -126,3 +126,6 @@ _operationMorphological(_this, size, inv)
 _operationAdaptiveThreshold(_this, size, kernel)
 _bitwiseThreshold(position, data, threshold)
 ```
+
+
+TEST
